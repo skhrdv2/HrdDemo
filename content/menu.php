@@ -271,7 +271,7 @@
                                 </li>
 
                                 <li class="dropdown-footer">
-                                    <a href="inbox.html">
+                                    <a href="inbox.php">
                                         See all messages
                                         <i class="ace-icon fa fa-arrow-right"></i>
                                     </a>
@@ -470,7 +470,7 @@
                           
 
                             <li class="">
-                                <a href="typography.html">
+                                <a href="typography.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลตำแหน่ง กพ.7
                                 </a>
@@ -479,7 +479,7 @@
                             </li>
 
                             <li class="">
-                                <a href="elements.html">
+                                <a href="elements.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลการศึกษา
                                 </a>
@@ -488,7 +488,7 @@
                             </li>
 
                             <li class="">
-                                <a href="buttons.html">
+                                <a href="buttons.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ขึ้นทะเบียนสภาวิชาชีพ
                                 </a>
@@ -497,7 +497,7 @@
                             </li>
 
                             <li class="">
-                                <a href="content-slider.html">
+                                <a href="content-slider.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลเครื่องราชอิสริยาภรณ์
                                 </a>
@@ -506,7 +506,7 @@
                             </li>
 
                             <li class="">
-                                <a href="treeview.html">
+                                <a href="treeview.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลโทษทางวินัย
                                 </a>
@@ -515,7 +515,7 @@
                             </li>
 
                             <li class="">
-                                <a href="jquery-ui.html">
+                                <a href="jquery-ui.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     หน้าที่ความรับผิดชอบ
                                 </a>
@@ -524,7 +524,7 @@
                             </li>
 
                             <li class="">
-                                <a href="nestable-list.html">
+                                <a href="nestable-list.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลการได้รับสวัสดิการ
                                 </a>
@@ -533,7 +533,7 @@
                             </li>
 
                             <li class="">
-                                <a href="nestable-list.html">
+                                <a href="nestable-list.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลเงินเดือน
                                 </a>
@@ -542,7 +542,7 @@
                             </li>
 
                             <li class="">
-                                <a href="nestable-list.html">
+                                <a href="nestable-list.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ประชุมประจำเดือน
                                 </a>
@@ -551,14 +551,14 @@
                             </li>
 
                             <li class="">
-                                <a href="nestable-list.html">
+                                <a href="nestable-list.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     การเข้าร่วมกิจกรรม
                                 </a>
                                 <b class="arrow"></b>
                             </li>
                             <li class="">
-                                <a href="nestable-list.html">
+                                <a href="nestable-list.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลสิ้นสุดการทำงาน
                                 </a>
@@ -632,7 +632,7 @@
 
                         <ul class="submenu">
                             <li class="">
-                                <a href="tables.html">
+                                <a href="tables.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Simple &amp; Dynamic
                                 </a>
@@ -641,7 +641,7 @@
                             </li>
 
                             <li class="">
-                                <a href="jqgrid.html">
+                                <a href="jqgrid.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     jqGrid plugin
                                 </a>
@@ -663,7 +663,7 @@
 
                         <ul class="submenu">
                             <li class="">
-                                <a href="form-elements.html">
+                                <a href="form-elements.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ทะเบียนประชุม/อบรม
                                 </a>
@@ -672,7 +672,7 @@
                             </li>
 
                             <li class="">
-                                <a href="form-elements-2.html">
+                                <a href="form-elements-2.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Form Elements 2
                                 </a>
@@ -681,7 +681,7 @@
                             </li>
 
                             <li class="">
-                                <a href="form-wizard.html">
+                                <a href="form-wizard.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Wizard &amp; Validation
                                 </a>
@@ -690,7 +690,7 @@
                             </li>
 
                             <li class="">
-                                <a href="wysiwyg.html">
+                                <a href="wysiwyg.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Wysiwyg &amp; Markdown
                                 </a>
@@ -699,7 +699,7 @@
                             </li>
 
                             <li class="">
-                                <a href="dropzone.html">
+                                <a href="dropzone.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Dropzone File Upload
                                 </a>
@@ -711,7 +711,7 @@
 
                     <!--        
                     <li class="">
-                        <a href="widgets.html">
+                        <a href="widgets.php">
                             <i class="menu-icon fa fa-list-alt"></i>
                             <span class="menu-text"> ทะเบียนร้องขอเอกสาร </span>
                         </a>
@@ -721,7 +721,7 @@
                     -->
 
                     <li class="">
-                        <a href="calendar.html">
+                        <a href="calendar.php">
                             <i class="menu-icon fa fa-calendar"></i>
 
                             <span class="menu-text">
@@ -738,7 +738,7 @@
 
                     <!--
                     <li class="">
-                        <a href="gallery.html">
+                        <a href="gallery.php">
                             <i class="menu-icon fa fa-picture-o"></i>
                             <span class="menu-text"> ดาวน์โหลดเอกสาร </span>
                         </a>
@@ -769,7 +769,7 @@
 
                         <ul class="submenu">
                             <li class="">
-                                <a href="profile.html">
+                                <a href="profile.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     User Profile
                                 </a>
@@ -778,7 +778,7 @@
                             </li>
 
                             <li class="">
-                                <a href="inbox.html">
+                                <a href="inbox.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Inbox
                                 </a>
@@ -787,7 +787,7 @@
                             </li>
 
                             <li class="">
-                                <a href="pricing.html">
+                                <a href="pricing.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Pricing Tables
                                 </a>
@@ -796,7 +796,7 @@
                             </li>
 
                             <li class="">
-                                <a href="invoice.html">
+                                <a href="invoice.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Invoice
                                 </a>
@@ -805,7 +805,7 @@
                             </li>
 
                             <li class="">
-                                <a href="timeline.html">
+                                <a href="timeline.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Timeline
                                 </a>
@@ -814,7 +814,7 @@
                             </li>
 
                             <li class="">
-                                <a href="search.html">
+                                <a href="search.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Search Results
                                 </a>
@@ -823,7 +823,7 @@
                             </li>
 
                             <li class="">
-                                <a href="email.html">
+                                <a href="email.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Email Templates
                                 </a>
@@ -832,7 +832,7 @@
                             </li>
 
                             <li class="">
-                                <a href="login.html">
+                                <a href="login.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Login &amp; Register
                                 </a>
@@ -861,7 +861,7 @@
 
                         <ul class="submenu">
                             <li class="">
-                                <a href="faq.html">
+                                <a href="faq.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     FAQ
                                 </a>
@@ -870,7 +870,7 @@
                             </li>
 
                             <li class="">
-                                <a href="error-404.html">
+                                <a href="error-404.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Error 404
                                 </a>
@@ -879,7 +879,7 @@
                             </li>
 
                             <li class="">
-                                <a href="error-500.html">
+                                <a href="error-500.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Error 500
                                 </a>
@@ -888,7 +888,7 @@
                             </li>
 
                             <li class="">
-                                <a href="grid.html">
+                                <a href="grid.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Grid
                                 </a>
@@ -897,7 +897,7 @@
                             </li>
 
                             <li class="">
-                                <a href="blank.html">
+                                <a href="blank.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Blank Page
                                 </a>
