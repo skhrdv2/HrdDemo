@@ -23,7 +23,7 @@
                 <div class="navbar-buttons navbar-header pull-right" role="navigation">
                     
                     <ul class="nav ace-nav">
-                        
+                        <!--
                         <li class="grey dropdown-modal">
                             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                                 <i class="ace-icon fa fa-tasks"></i>
@@ -99,7 +99,7 @@
                                     </a>
                                 </li>
                             </ul>
-                        </li>
+                        </li>  -->
 
                         <li class="purple dropdown-modal">
                             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
@@ -709,6 +709,7 @@
                         </ul>
                     </li>
 
+                    <!--        
                     <li class="">
                         <a href="widgets.html">
                             <i class="menu-icon fa fa-list-alt"></i>
@@ -717,6 +718,7 @@
 
                         <b class="arrow"></b>
                     </li>
+                    -->
 
                     <li class="">
                         <a href="calendar.html">
@@ -734,6 +736,7 @@
                         <b class="arrow"></b>
                     </li>
 
+                    <!--
                     <li class="">
                         <a href="gallery.html">
                             <i class="menu-icon fa fa-picture-o"></i>
@@ -742,6 +745,7 @@
 
                         <b class="arrow"></b>
                     </li>
+                    -->
 
                     <li class="">
                         <a href="?page=enduser_report_menu">
@@ -752,6 +756,7 @@
                         <b class="arrow"></b>
                     </li>
 
+                    <!--
                     <li class="">
                         <a href="#" class="dropdown-toggle">
                             <i class="menu-icon fa fa-tag"></i>
@@ -836,7 +841,9 @@
                             </li>
                         </ul>
                     </li>
+                    -->
 
+                    <!--
                     <li class="">
                         <a href="#" class="dropdown-toggle">
                             <i class="menu-icon fa fa-file-o"></i>
@@ -899,6 +906,8 @@
                             </li>
                         </ul>
                     </li>
+                    -->    
+
                 </ul><!-- /.nav-list -->
 
                 <div class="sidebar-toggle sidebar-collapse" id="sidebar-collapse">
