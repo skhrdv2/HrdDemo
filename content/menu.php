@@ -23,7 +23,11 @@
                 <div class="navbar-buttons navbar-header pull-right" role="navigation">
                     
                     <ul class="nav ace-nav">
+<<<<<<< HEAD
                         <!--
+=======
+                        
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                         <li class="grey dropdown-modal">
                             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                                 <i class="ace-icon fa fa-tasks"></i>
@@ -99,7 +103,11 @@
                                     </a>
                                 </li>
                             </ul>
+<<<<<<< HEAD
                         </li>  -->
+=======
+                        </li>
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
 
                         <li class="purple dropdown-modal">
                             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
@@ -271,7 +279,11 @@
                                 </li>
 
                                 <li class="dropdown-footer">
+<<<<<<< HEAD
                                     <a href="inbox.php">
+=======
+                                    <a href="inbox.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                         See all messages
                                         <i class="ace-icon fa fa-arrow-right"></i>
                                     </a>
@@ -467,19 +479,31 @@
 
                         <ul class="submenu">
                           
+<<<<<<< HEAD
                           
 
                             <li class="">
                                 <a href="typography.php">
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลตำแหน่ง กพ.7
+=======
+
+                           <li class="">
+                                <a href="?page=kopo7">
+                                    <i class="menu-icon fa fa-caret-right"></i>
+                                    ข้อมูลตำแหน่ง กพ.
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                 </a>
 
                                 <b class="arrow"></b>
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="elements.php">
+=======
+                                <a href="elements.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลการศึกษา
                                 </a>
@@ -488,7 +512,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="buttons.php">
+=======
+                                <a href="buttons.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ขึ้นทะเบียนสภาวิชาชีพ
                                 </a>
@@ -497,7 +525,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="content-slider.php">
+=======
+                                <a href="content-slider.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลเครื่องราชอิสริยาภรณ์
                                 </a>
@@ -506,7 +538,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="treeview.php">
+=======
+                                <a href="treeview.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลโทษทางวินัย
                                 </a>
@@ -515,7 +551,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="jquery-ui.php">
+=======
+                                <a href="jquery-ui.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     หน้าที่ความรับผิดชอบ
                                 </a>
@@ -524,7 +564,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="nestable-list.php">
+=======
+                                <a href="nestable-list.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลการได้รับสวัสดิการ
                                 </a>
@@ -533,7 +577,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="nestable-list.php">
+=======
+                                <a href="nestable-list.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลเงินเดือน
                                 </a>
@@ -542,7 +590,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="nestable-list.php">
+=======
+                                <a href="nestable-list.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ประชุมประจำเดือน
                                 </a>
@@ -551,14 +603,22 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="nestable-list.php">
+=======
+                                <a href="nestable-list.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     การเข้าร่วมกิจกรรม
                                 </a>
                                 <b class="arrow"></b>
                             </li>
                             <li class="">
+<<<<<<< HEAD
                                 <a href="nestable-list.php">
+=======
+                                <a href="nestable-list.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ข้อมูลสิ้นสุดการทำงาน
                                 </a>
@@ -632,7 +692,11 @@
 
                         <ul class="submenu">
                             <li class="">
+<<<<<<< HEAD
                                 <a href="tables.php">
+=======
+                                <a href="tables.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Simple &amp; Dynamic
                                 </a>
@@ -641,7 +705,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="jqgrid.php">
+=======
+                                <a href="jqgrid.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     jqGrid plugin
                                 </a>
@@ -663,7 +731,11 @@
 
                         <ul class="submenu">
                             <li class="">
+<<<<<<< HEAD
                                 <a href="form-elements.php">
+=======
+                                <a href="form-elements.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     ทะเบียนประชุม/อบรม
                                 </a>
@@ -672,7 +744,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="form-elements-2.php">
+=======
+                                <a href="form-elements-2.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Form Elements 2
                                 </a>
@@ -681,7 +757,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="form-wizard.php">
+=======
+                                <a href="form-wizard.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Wizard &amp; Validation
                                 </a>
@@ -690,7 +770,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="wysiwyg.php">
+=======
+                                <a href="wysiwyg.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Wysiwyg &amp; Markdown
                                 </a>
@@ -699,7 +783,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="dropzone.php">
+=======
+                                <a href="dropzone.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Dropzone File Upload
                                 </a>
@@ -709,19 +797,30 @@
                         </ul>
                     </li>
 
+<<<<<<< HEAD
                     <!--        
                     <li class="">
                         <a href="widgets.php">
+=======
+                    <li class="">
+                        <a href="widgets.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                             <i class="menu-icon fa fa-list-alt"></i>
                             <span class="menu-text"> ทะเบียนร้องขอเอกสาร </span>
                         </a>
 
                         <b class="arrow"></b>
                     </li>
+<<<<<<< HEAD
                     -->
 
                     <li class="">
                         <a href="calendar.php">
+=======
+
+                    <li class="">
+                        <a href="calendar.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                             <i class="menu-icon fa fa-calendar"></i>
 
                             <span class="menu-text">
@@ -736,16 +835,24 @@
                         <b class="arrow"></b>
                     </li>
 
+<<<<<<< HEAD
                     <!--
                     <li class="">
                         <a href="gallery.php">
+=======
+                    <li class="">
+                        <a href="gallery.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                             <i class="menu-icon fa fa-picture-o"></i>
                             <span class="menu-text"> ดาวน์โหลดเอกสาร </span>
                         </a>
 
                         <b class="arrow"></b>
                     </li>
+<<<<<<< HEAD
                     -->
+=======
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
 
                     <li class="">
                         <a href="?page=enduser_report_menu">
@@ -756,7 +863,10 @@
                         <b class="arrow"></b>
                     </li>
 
+<<<<<<< HEAD
                     <!--
+=======
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                     <li class="">
                         <a href="#" class="dropdown-toggle">
                             <i class="menu-icon fa fa-tag"></i>
@@ -769,7 +879,11 @@
 
                         <ul class="submenu">
                             <li class="">
+<<<<<<< HEAD
                                 <a href="profile.php">
+=======
+                                <a href="profile.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     User Profile
                                 </a>
@@ -778,7 +892,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="inbox.php">
+=======
+                                <a href="inbox.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Inbox
                                 </a>
@@ -787,7 +905,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="pricing.php">
+=======
+                                <a href="pricing.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Pricing Tables
                                 </a>
@@ -796,7 +918,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="invoice.php">
+=======
+                                <a href="invoice.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Invoice
                                 </a>
@@ -805,7 +931,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="timeline.php">
+=======
+                                <a href="timeline.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Timeline
                                 </a>
@@ -814,7 +944,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="search.php">
+=======
+                                <a href="search.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Search Results
                                 </a>
@@ -823,7 +957,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="email.php">
+=======
+                                <a href="email.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Email Templates
                                 </a>
@@ -832,7 +970,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="login.php">
+=======
+                                <a href="login.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Login &amp; Register
                                 </a>
@@ -841,9 +983,13 @@
                             </li>
                         </ul>
                     </li>
+<<<<<<< HEAD
                     -->
 
                     <!--
+=======
+
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                     <li class="">
                         <a href="#" class="dropdown-toggle">
                             <i class="menu-icon fa fa-file-o"></i>
@@ -861,7 +1007,11 @@
 
                         <ul class="submenu">
                             <li class="">
+<<<<<<< HEAD
                                 <a href="faq.php">
+=======
+                                <a href="faq.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     FAQ
                                 </a>
@@ -870,7 +1020,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="error-404.php">
+=======
+                                <a href="error-404.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Error 404
                                 </a>
@@ -879,7 +1033,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="error-500.php">
+=======
+                                <a href="error-500.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Error 500
                                 </a>
@@ -888,7 +1046,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="grid.php">
+=======
+                                <a href="grid.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Grid
                                 </a>
@@ -897,7 +1059,11 @@
                             </li>
 
                             <li class="">
+<<<<<<< HEAD
                                 <a href="blank.php">
+=======
+                                <a href="blank.html">
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                                     <i class="menu-icon fa fa-caret-right"></i>
                                     Blank Page
                                 </a>
@@ -906,8 +1072,11 @@
                             </li>
                         </ul>
                     </li>
+<<<<<<< HEAD
                     -->    
 
+=======
+>>>>>>> c0ed26c084535283b43e915850649b93daea9419
                 </ul><!-- /.nav-list -->
 
                 <div class="sidebar-toggle sidebar-collapse" id="sidebar-collapse">

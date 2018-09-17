@@ -339,8 +339,13 @@ $('.input-daterange').datepicker({
 });
 $('.datepicker').datepicker({
     autoclose: true,
+<<<<<<< HEAD
+    language: "th",
+    format: 'yyyy-mm-dd',
+=======
     language: "th-th",
     format: 'dd-mm-yyyy',
+>>>>>>> 6d886dca79a138b8330b796fca45d87ef335666e
     todayHighlight: true,
     
 });    
