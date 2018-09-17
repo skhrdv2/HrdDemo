@@ -14,6 +14,7 @@ class MySqlConn {
     public function __construct() {
         $this->_mysql = new mysqli(host, username, password, db)
                 or die('not connect to sql');
+       
     }
 
     
