@@ -465,7 +465,7 @@
                                         </div><!-- /.widget-box -->
                                     </div><!-- /.col -->
                                 </div><!-- /.row -->
-                                -->
+                                
 
                                 <!--
                                 <div class="hr hr32 hr-dotted"></div>
@@ -1221,7 +1221,7 @@
                                                 </div><!-- /.widget-main -->
                                             </div><!-- /.widget-body -->
                                         </div><!-- /.widget-box -->
-                                    -->
+                                    
                                                                         
                                     </div><!-- /.col -->
                                 </div><!-- /.row -->
