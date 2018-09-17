@@ -255,7 +255,7 @@
   </div>
   <div class="form-group col-md-2">
     <label for="phone_number">เบอร์โทร</label>
-    <input type="text" class="form-control" id="phone_number">
+    <input type="text" class="form-control id="phone_number">
   </div>
   </div>
   

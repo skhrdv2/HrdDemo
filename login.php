@@ -115,8 +115,8 @@ $Db = new MySqlConn;
                                             </div>
                                         </div><!-- /.widget-main -->
 
-                                        <div class="toolbar clearfix">
-                                            <div>
+                                        <!-- <div class="toolbar clearfix">
+                                             <div>
                                                 <a href="#" data-target="#forgot-box" class="forgot-password-link">
                                                     <i class="ace-icon fa fa-arrow-left"></i>
                                                     ลืมรหัสผ่าน
@@ -127,9 +127,9 @@ $Db = new MySqlConn;
                                                 <a href="#" data-target="#signup-box" class="user-signup-link">
                                                     สมัครสมาชิก
                                                     <i class="ace-icon fa fa-arrow-right"></i>
-                                                </a>
-                                            </div>
-                                        </div>
+                                                </a>  
+                                            </div>  
+                                        </div> -->
                                     </div><!-- /.widget-body -->
                                 </div><!-- /.login-box -->
 

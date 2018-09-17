@@ -1,9 +1,11 @@
 <?php 
 session_start();
 include_once('lib/config.inc.php');
+
 $Db = new MySqlConn;
 $Db->access();
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -57,12 +59,12 @@ $Db->access();
         <script src="assets/js/respond.min.js"></script>
         <![endif]-->
     </head>
-    <?php
-    include_once('content/menu.php');
-    ?>
-  <script src="includes/select2-4.0.6/js/select2.min.js"></script>
-        <!-- <![endif]-->
 
+<script src="includes/select2-4.0.6/js/select2.min.js"></script>
+        <!-- <![endif]-->
+        <?php
+        include_once('content/menu.php');
+        ?>
         <!--[if IE]>
 <script src="assets/js/jquery-1.11.3.min.js"></script>
 <![endif]-->
@@ -339,13 +341,8 @@ $('.input-daterange').datepicker({
 });
 $('.datepicker').datepicker({
     autoclose: true,
-<<<<<<< HEAD
-    language: "th",
-    format: 'yyyy-mm-dd',
-=======
     language: "th-th",
     format: 'dd-mm-yyyy',
->>>>>>> 6d886dca79a138b8330b796fca45d87ef335666e
     todayHighlight: true,
     
 });    
