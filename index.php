@@ -81,7 +81,9 @@ $Db->access();
                 </div>
 
                 <div class="navbar-buttons navbar-header pull-right" role="navigation">
+                    
                     <ul class="nav ace-nav">
+                        
                         <li class="grey dropdown-modal">
                             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                                 <i class="ace-icon fa fa-tasks"></i>
@@ -411,6 +413,48 @@ $Db->access();
                         </li>
                     </ul>
                 </div>
+                <nav role="navigation" class="navbar-menu pull-left collapse navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+								แฟ้มข้อมูลบุคลากร
+	  		&nbsp;
+								<i class="ace-icon fa fa-angle-down bigger-110"></i>
+							</a>
+
+							<ul class="dropdown-menu dropdown-light-blue dropdown-caret">
+								<li>
+									<a href="?page=person_list">
+										<i class="ace-icon fa fa-eye bigger-110 blue"></i>
+										ทะเบียนบุคลากร
+									</a>
+								</li>
+
+								<li>
+									<a href="#">
+										<i class="ace-icon fa fa-user bigger-110 blue"></i>
+										Active Users
+									</a>
+								</li>
+
+								<li>
+									<a href="#">
+										<i class="ace-icon fa fa-cog bigger-110 blue"></i>
+										Settings
+									</a>
+								</li>
+							</ul>
+						</li>
+
+						<li>
+							<a href="#">
+								<i class="ace-icon fa fa-envelope"></i>
+								Messages
+								<span class="badge badge-warning">5</span>
+							</a>
+						</li>
+					</ul>
+
             </div><!-- /.navbar-container -->
         </div>
 
@@ -473,7 +517,7 @@ $Db->access();
                         <a href="#" class="dropdown-toggle">
                             <i class="menu-icon fa fa-desktop"></i>
                             <span class="menu-text">
-                                แฟ้มทะเบียนบุคลากร
+                                ข้อมูลบุคลากร
                             </span>
 
                             <b class="arrow fa fa-angle-down"></b>
@@ -483,14 +527,7 @@ $Db->access();
 
                         <ul class="submenu">
                           
-                            <li class="">
-                                <a href="?page=person_list">
-                                    <i class="menu-icon fa fa-caret-right"></i>
-                                    ข้อมูลบุคลากร
-                                </a>
-
-                                <b class="arrow"></b>
-                            </li>
+                          
 
                             <li class="">
                                 <a href="typography.html">
