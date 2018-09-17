@@ -46,21 +46,18 @@
 													<tr>
 														<th class="center">
 															<label class="pos-rel">
-															<span class='action-buttons'><a class='red'  href='#'><i class='ace-icon fa fa-plus bigger-130'></i></a></span>
-																<span class="lbl"></span>
+															<span class="lbl"></span>
 															</label>
 														</th>
-														<th>วันที่ปรับตำแหน่ง</th>
-														<th>ตำแหน่ง</th>
-														<th>เลขที่ตำแหน่ง</th>
-														<th>ประเภท</th>
-                                                        <th>ขั้นที่่ปรับ</th>
-                                                        <th>อัตราเงินเดือน</th>
-                                                        <th>เงินประจำตำแหน่ง</th>
-                                                        <th>รายละเอียดตำแหน่ง</th>
-                                                        <th>สังกัดกลุ่มงาน</th>
-                                                        <th>แผนก</th>
-														<th></th>
+														<th width="8%">วันที่ปรับตำแหน่ง</th>
+														<th width="12%">ตำแหน่ง</th>
+														<th width="7%">เลขที่ตำแหน่ง</th>
+														<th width="15%">ประเภท</th>
+                                                        <th width="7%">ขั้นที่่ปรับ</th>
+                                                        <th width="8%">อัตราเงินเดือน</th>
+                                                        <th width="20%">รายละเอียดตำแหน่ง</th>
+                                                        <th width="10%">สังกัดกลุ่มงาน</th>
+                                                        <th width="10%">แผนก</th>
 													</tr>
 												</thead>
 
@@ -107,23 +104,30 @@
                     "type":"post",
                     "data":{
                         req:'req',person_id:pid}
-				},
+				}, fixedColumns:   {
+            leftColumns: 0,
+            rightColumns: 1
+        },
 				
 				"aoColumns": [
     {null:null},
-    {"data":"position_date" },
+    {"data":"position_date","sClass": "center" },
 	{"data":"position_name"},
-	{"data":"position_number"},
+	{"data":"position_number","sClass": "center"},
 	{"data":"level_type_name"},
-	{"data":"position_advance"},
-	{"data":"position_salary"},
+	{"data":"position_advance","sClass": "center"},
+	{"data":"position_salary","sClass": "center"},
 	{"data":"position_detail"},
 	{"data":"department_name"},
-	{"data":"department_sub_name"},
-	{"data":null}
+	{"data":"department_sub_name"}
+	
 ],
-
-        
+columnDefs: [
+    {
+        targets: 2,
+        className: 'dt-body-right'
+    }
+  ],
             "order": [[2, 'desc']]
         });
         t.on('order.dt search.dt', function () {
