@@ -4,13 +4,10 @@
 						<ul class="breadcrumb">
 							<li>
 								<i class="ace-icon fa fa-home home-icon"></i>
-								<a href="#">Home</a>
+								<a href="?page=dashboard">Home</a>
 							</li>
 
-							<li>
-								<a href="#">More Pages</a>
-							</li>
-							<li class="active">User Profile</li>
+							<li class="active">ข้อมูลบุคลากร</li>
 						</ul><!-- /.breadcrumb -->
 					</div>
 
@@ -21,11 +18,8 @@
 
 						<div class="page-header">
 							<h1>
-								User Profile Page
-								<small>
-									<i class="ace-icon fa fa-angle-double-right"></i>
-									3 styles with inline editable feature
-								</small>
+							ทะเบียนข้อมูลบุคลากร
+							
 							</h1>
 						</div><!-- /.page-header -->
 
@@ -34,14 +28,14 @@
                                 <!-- เริ่ม content-->
                                 <div class="row">
 									<div class="col-xs-12">
-										<h3 class="header smaller lighter blue">jQuery dataTables</h3>
+										
 
 										<div class="clearfix">
 											<div class="pull-right tableTools-container"></div>
 										</div>
-										<div class="table-header">
-											Results for "Latest Registered Domains"
-										</div>
+<!--<div class="table-header">
+										
+										</div>-->
 
 										<!-- div.table-responsive -->
 
