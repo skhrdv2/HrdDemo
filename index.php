@@ -1296,7 +1296,7 @@ $('.input-daterange').datepicker({
 });
 $('.datepicker').datepicker({
     autoclose: true,
-    language: "th-th",
+    language: "th",
     format: 'yyyy-mm-dd',
     todayHighlight: true,
     
