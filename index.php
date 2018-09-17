@@ -767,6 +767,15 @@ $Db->access();
                     </li>
 
                     <li class="">
+                        <a href="?page=enduser_report_menu">
+                            <i class="menu-icon fa fa-picture-o"></i>
+                            <span class="menu-text"> ENDUSER REPORT </span>
+                        </a>
+
+                        <b class="arrow"></b>
+                    </li>
+
+                    <li class="">
                         <a href="#" class="dropdown-toggle">
                             <i class="menu-icon fa fa-tag"></i>
                             <span class="menu-text"> More Pages </span>

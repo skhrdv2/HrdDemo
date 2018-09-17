@@ -346,6 +346,7 @@ $Db = new MySqlConn;
                 $_SESSION['lname'] = $row['lname'];
                 $_SESSION['fullname'] = $row['fullname'];
                 $_SESSION['department_id'] = $row['department_id'];
+                $_SESSION['department_sub_id'] = $row['department_sub_id'];
                 $_SESSION['department_name'] = $row['department_name'];
             }
         echo "<script language='javascript'>";
