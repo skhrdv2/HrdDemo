@@ -330,6 +330,7 @@
 
                                 <div class="hr hr32 hr-dotted"></div>
 
+                                <!--
                                 <div class="row">
                                     <div class="col-sm-5">
                                         <div class="widget-box transparent">
@@ -440,6 +441,7 @@
                                         </div><!-- /.widget-box -->
                                     </div><!-- /.col -->
 
+                                    <!--
                                     <div class="col-sm-7">
                                         <div class="widget-box transparent">
                                             <div class="widget-header widget-header-flat">
@@ -463,10 +465,13 @@
                                         </div><!-- /.widget-box -->
                                     </div><!-- /.col -->
                                 </div><!-- /.row -->
+                                -->
 
+                                <!--
                                 <div class="hr hr32 hr-dotted"></div>
 
                                 <div class="row">
+                                    
                                     <div class="col-sm-6">
                                         <div class="widget-box transparent" id="recent-box">
                                             <div class="widget-header">
@@ -880,6 +885,7 @@
                                                             <div class="hr hr-double hr8"></div>
                                                         </div><!-- /.#member-tab -->
 
+                                                        <!--
                                                         <div id="comment-tab" class="tab-pane">
                                                             <div class="comments">
                                                                 <div class="itemdiv commentdiv">
@@ -1056,11 +1062,15 @@
                                                             <div class="hr hr-double hr8"></div>
                                                         </div>
                                                     </div>
+                                                    -->
+
                                                 </div><!-- /.widget-main -->
                                             </div><!-- /.widget-body -->
                                         </div><!-- /.widget-box -->
                                     </div><!-- /.col -->
+                                   
 
+                                <!--
                                     <div class="col-sm-6">
                                         <div class="widget-box">
                                             <div class="widget-header">
@@ -1211,6 +1221,8 @@
                                                 </div><!-- /.widget-main -->
                                             </div><!-- /.widget-body -->
                                         </div><!-- /.widget-box -->
+                                    -->
+                                                                        
                                     </div><!-- /.col -->
                                 </div><!-- /.row -->
 
